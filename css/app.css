@@ -1,0 +1,41 @@
+body {
+	background-color: #222;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.owf {
+	font-size: 15vw;
+	color: #fff;
+}
+
+.loc-container {
+	font-size: 5rem;
+	font-weight: bold;
+}
+
+.weather-container {
+	font-size: 2.5rem;
+	opacity: 0.5;
+}
+
+.temp-unit-container {
+	font-size: 2rem;
+}
+
+.temp-container {
+	display: inline-block;
+
+}
+
+.unit-container {
+	cursor: pointer;
+	display: inline-block;
+	color: #008cff;
+}
